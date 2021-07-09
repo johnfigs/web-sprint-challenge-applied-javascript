@@ -68,7 +68,6 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 - After a webpage is loaded, the browser builds a model of the webpage that is a javascript object, this is the DOM. 
 
-
 2. What is an event?
 3. What is an event listener?
 4. Why would we convert a NodeList into an Array?
