@@ -40,7 +40,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 - [x] Steps 1 and 2 are explained inside the `src/components/header.js` file.
 - [x] Steps 3 and 4 are explained inside the `src/components/tabs.js` file.
-- [ ] Steps 5 and 6 are explained inside the `src/components/card.js` file.
+- [x] Steps 5 and 6 are explained inside the `src/components/card.js` file.
 
 **Important Notes:**
 
@@ -69,6 +69,17 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 - After a webpage is loaded, the browser builds a model of the webpage that is a javascript object, this is the DOM. 
 
 2. What is an event?
+
+- An event is a user interaction with a site, it can be a click, to a mouseover, scrolling, etc. 
+
 3. What is an event listener?
+
+- An event listener listens for a specific type of event on the element that it is placed on and fires a callback when it is triggered. 
+
 4. Why would we convert a NodeList into an Array?
+
+- We would convert a NodeList to an array to have access to array methods such as forEach();
+
 5. What is a component?
+
+- A component is made of HTML, CSS, and javascript that is dynamic and reusable in a webpage or application.
