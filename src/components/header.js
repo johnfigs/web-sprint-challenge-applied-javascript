@@ -45,7 +45,7 @@ const headerAppender = (selector) => {
   //
 
   //creating header
-  const myHeader = Header('Ventura is beautiful.', '07/09/2021', '68');
+  const myHeader = Header('Ventura is beautiful.', 'July 9, 2021', '68');
 
   //creating insert point
   var insertPoint = document.querySelector(selector);
